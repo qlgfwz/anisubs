@@ -2,5 +2,6 @@
 {"rules": [
   {"name": "合集1", "file": "1.json"},
   {"name": "合集2", "file": "2.json"},
-  {"name": "合集3", "file": "3.json"}
+  {"name": "合集3", "file": "3.json"},
+  {"name": "H里番", "file": "H.json"}
 ]}
